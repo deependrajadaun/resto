@@ -1,0 +1,55 @@
+{ "login":[
+  { "name":"deependra singh", 
+  "password" :" deenu@02"}
+],
+
+
+
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "pizzaHut",
+      "location": "delhi"
+    },
+    {
+      "name": "deependra singh",
+      "email": "deenus529@gmail.com",
+      "address": "shivpuri road",
+      "location": "del",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "pizza",
+      "location": "de",
+      "email": "deenus@gmail.com"
+    },
+    {
+      "name": "deependra singh",
+      "email": "deenus529@gmail.com",
+      "address": "shivpuri road",
+      "location": "d",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "haldi ram pizza",
+      "location": "south delhi",
+      "email": "deenus@gmail.com"
+    },
+    {
+      "name": "kfc",
+      "email": "kfc@test.com",
+      "address": "noida",
+      "location": "india",
+      "id": 8
+    },
+    {
+      "name": "kfc",
+      "email": "kfc@test.com",
+      "address": "noida",
+      "location": "india",
+      "id": 9
+    }
+  ]
+}
